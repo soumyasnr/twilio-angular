@@ -3,7 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  twilio_acc_sid: 'AC01704b526cb5910e3b0482ec71d4a5ad',
+  twilio_auth_token: 'c305f57de522b38a310ece509361560a',
+  twilio_api_key: 'SK47c074477e977370fc8bac2898089064',
+  twilio_api_secret: 'Of2OYnZ2uM0AuA6BqMZcUR8w26gGCU6n'
 };
 
 /*
